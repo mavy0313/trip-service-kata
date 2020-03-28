@@ -3,7 +3,7 @@ package org.craftedsw.tripservicekata.user;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
-import org.craftedsw.tripservicekata.trip.TripServiceTest.UserBuilder;
+import org.craftedsw.tripservicekata.trip.UserBuilder;
 import org.junit.jupiter.api.Test;
 
 public class UserTest {
